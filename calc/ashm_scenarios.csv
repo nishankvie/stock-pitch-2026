@@ -1,0 +1,4 @@
+scenario,core_eps_p,pe,excess_capital_p,implied_value_p,move_pct
+Bear for us (good for the short),5.0,15.0,73.0,148.0,-34.4
+Base,7.1,15.0,73.0,179.5,-20.4
+Against us,10.0,20.0,73.0,273.0,21.0

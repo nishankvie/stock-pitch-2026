@@ -1,0 +1,87 @@
+metric,value,unit,period,source_url,accessed,notes
+price_close,63.60,EUR,2026-10-22,https://finance.yahoo.com/quote/DWS.DE/,2026-10-22,yfinance DWS.DE; see data/prices_dws.csv. Rerun 01_prices.py to refresh
+high_52w,78.75,EUR,52w to 2026-10-22 (set 2026-09-08),https://finance.yahoo.com/quote/DWS.DE/,2026-10-22,Intraday high; closing high 78.00 same day
+low_52w,50.20,EUR,52w to 2026-10-22 (set 2025-11-18),https://finance.yahoo.com/quote/DWS.DE/,2026-10-22,
+shares_outstanding,200.0,million,2026,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,DB holds 158981872 = 79.49% -> 200.0m total
+market_cap,12.72,EUR bn,2026-10-22,https://finance.yahoo.com/quote/DWS.DE/,2026-10-22,computed price x 200m
+aum_total,896,EUR bn,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+aum_total,1012,EUR bn,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+aum_total,1085,EUR bn,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+aum_total,1190,EUR bn,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,Record
+aum_passive,246,EUR bn,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,Passive incl. Xtrackers
+aum_passive,335,EUR bn,FY2024,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+aum_passive,395,EUR bn,FY2025,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,Opening balance in H1 2026 AuM bridge
+aum_passive,455,EUR bn,H1 2026,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,= 38% of group AuM
+net_flows_passive,21.2,EUR bn,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_passive,41.8,EUR bn,FY2024,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_passive,32.6,EUR bn,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+net_flows_passive,6.5,EUR bn,Q1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+net_flows_passive,11.7,EUR bn,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+net_flows_passive,18,EUR bn,H1 2026,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,Rounded in AuM bridge (6.5+11.7=18.2)
+net_flows_lt_ex_cash,16.5,EUR bn,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_lt_ex_cash,32.9,EUR bn,FY2024,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_lt_ex_cash,33.7,EUR bn,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+net_flows_lt_ex_cash,6.6,EUR bn,Q1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+net_flows_lt_ex_cash,11.6,EUR bn,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+net_flows_lt_ex_cash,18.2,EUR bn,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+net_flows_total,28.3,EUR bn,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_total,25.7,EUR bn,FY2024,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_flows_total,51.0,EUR bn,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+net_flows_total,35.8,EUR bn,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,Q1 11.0 + Q2 24.8; Q2 incl. 12.9bn cash
+net_revenues,2614,EUR m,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+net_revenues,2765,EUR m,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+net_revenues,3155,EUR m,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,incl. 318m performance & transaction fees
+net_revenues,773,EUR m,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,Perf & transaction fees only 11m (Q1: 109m)
+net_revenues,1594,EUR m,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+mgmt_fee_margin,27.1,bps,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+mgmt_fee_margin,26.1,bps,FY2024,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+mgmt_fee_margin,25.0,bps,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+mgmt_fee_margin,24.7,bps,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,Mix shift to passive dilutes margin
+cir_reported,70.3,%,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+cir_adjusted,64.0,%,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+cir_reported,65.6,%,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Restated; originally 65.4%
+cir_adjusted,62.3,%,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+cir_reported,58.0,%,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+cir_adjusted,57.4,%,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+cir_reported,54.1,%,Q1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+cir_reported,60.5,%,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,"Reported CIR; DWS no longer shows an 'adjusted' CIR in 2026 releases"
+cir_reported,57.2,%,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+pbt,777,EUR m,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+pbt,951,EUR m,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Restated; originally 957
+pbt,1324,EUR m,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+pbt,377,EUR m,Q1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+pbt,305,EUR m,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,-19% q/q
+pbt,682,EUR m,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,+16% y/y
+pbt_consensus,335,EUR m,Q2 2026,,2026-10-22,NOT FOUND in a free source (brief's figure; not verified)
+net_income,551,EUR m,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,Attributable to DWS shareholders
+net_income,649,EUR m,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Restated; originally 655
+net_income,927,EUR m,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+net_income,501,EUR m,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+eps,2.76,EUR,FY2023,https://download.dws.com/download/asset/046ee40e557d4fb9af5744fdada1488d,2026-10-22,
+eps,3.25,EUR,FY2024,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Restated; originally 3.28
+eps,4.64,EUR,FY2025,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Beat 4.50 target
+eps,1.19,EUR,Q2 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,
+eps,2.51,EUR,H1 2026,https://download.dws.com/download/asset/41fedfcb-5fb5-4bfe-a71f-fab38634f4f1,2026-10-22,Diluted; +21% y/y
+dps,2.00,EUR,FY2023,https://finance.yahoo.com/quote/DWS.DE/history/,2026-10-22,Plus EUR 4.10 extraordinary (6.10 paid Jun-2024 per Yahoo dividend history). Ordinary/special split from memory of DWS AGM 2024; not re-verified in primary doc
+dps,2.20,EUR,FY2024,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,
+dps,3.00,EUR,FY2025,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,Approved AGM 3 Jun 2026; ex-div 4 Jun 2026
+target_eps_growth,10-15,% p.a.,2026-2028,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Reaffirmed in H1 2026 report
+target_cir_2026,55-57,%,FY2026,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,2026 outlook in H1 report
+target_cir_2027,<55,%,FY2027,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,Mid-term target
+target_lt_flows_cum,>160,EUR bn,2026-2028 cumulative,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,H1 report words it 'approximately 160bn'
+target_payout,~65,% of EPS,ordinary,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,
+extraordinary_dividend_plan,~1,EUR bn,2027,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom,2026-10-22,"'substantial part' of EUR 1bn excess capital, subject to growth needs; ~EUR 5/share if all paid (Berenberg)"
+pensions_growth_focus,yes,text,Q2 2026,https://download.dws.com/download/asset/684913f0-156d-4d9c-a2fa-77b576d7e1b8,2026-10-22,"CEO: will launch own AVD product incl. standard product, Deutsche Bank as key distributor; Pillar 2 'even more exciting'"
+cons_eps,5.22,EUR,FY2026E,https://finance.yahoo.com/quote/DWS.DE/analysis/,2026-10-22,"yfinance earnings_estimate: avg 5.219, range 5.08-5.55, 8 analysts. Berenberg cites consensus 5.24"
+cons_eps,5.48,EUR,FY2027E,https://finance.yahoo.com/quote/DWS.DE/analysis/,2026-10-22,"avg 5.482, range 5.22-5.98, 8 analysts; only +5% vs 2026E (below 10-15% target)"
+cons_dps,3.40,EUR,FY2026E,,2026-10-22,"NOT VERIFIED from a free source; 65% payout x 5.22 = 3.39 so 3.40 is consistent. MarketScreener (login) not accessible"
+cons_target_price,71.64,EUR,2026-10-22,https://finance.yahoo.com/quote/DWS.DE/analysis/,2026-10-22,"Mean; median 71.40; range 57-90; 15 analysts. Ratings: 2 strong buy, 4 buy, 8 hold, 1 sell"
+analyst_rbc,Outperform 73,EUR,2026-10-05,https://www.finanznachrichten.de/nachrichten-2026-10/69751906-rbc-stuft-dws-auf-outperform-322.htm,2026-10-22,Raised from 68
+analyst_jefferies,Buy,text,2026-09-30,https://www.finanzen.net/aktien/dws-aktie,2026-10-22,Target NOT FOUND (finanzen.net blocked)
+analyst_goldman,Sell,text,2026-10-01,https://www.finanzen.ch/nachrichten/aktien/dws-aktie-kursbewegung-22-10-2026-1035070893,2026-10-22,Target NOT FOUND
+analyst_berenberg,Hold 68,EUR,2026-10-20,https://www.investing.com/news/stock-market-news/berenberg-starts-dws-coverage-on-concerns-over-passivedriven-fee-pressure-4959966,2026-10-22,"Initiation; EPS 2026E 5.11, 2028E 5.57 (cons 6.13); 6.3% EPS CAGR 2025-28"
+next_results,2026-10-28,date,Q3 2026,https://finance.yahoo.com/quote/DWS.DE/,2026-10-22,Also confirmed by RBC note
+db_stake,79.49,%,30 Jun 2026,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,Via DB Beteiligungs-Holding GmbH; Nippon Life 5.00%; free float ~15.5%
+legal_form,GmbH & Co. KGaA,text,,https://download.dws.com/download/asset/cce48ce4-881c-4e27-9fc5-d715551e1f59,2026-10-22,"General partner DWS Management GmbH (owned by DB) runs the company; limited shareholders cannot appoint management. Interpretation, not a quoted figure"
+fine_frankfurt_greenwashing,25,EUR m,2025-04-02,https://www.ipe.com/news/frankfurt-public-prosecutor-fines-dws-after-greenwashing-investigation/10129803.article,2026-10-22,"ESG marketing mid-2020 to Jan-2023; accepted as negligent administrative offence"
+fine_sec_esg,19,USD m,2023-09-25,https://www.sec.gov/news/press-release/2023-194,2026-10-22,Plus USD 6m separate AML penalty = USD 25m total

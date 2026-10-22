@@ -1,0 +1,55 @@
+section,item,value,unit,formula,source
+DWS,Share price,63.6,EUR (22 Oct 2026 close),,https://finance.yahoo.com/quote/DWS.DE/
+DWS,Market cap,12.72,EUR bn,price x 200.0m shares,https://finance.yahoo.com/quote/DWS.DE/
+DWS,P/E 2026E,12.2,x,price / consensus EPS 2026E (5.22),https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,P/E 2027E,11.6,x,price / consensus EPS 2027E,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,P/E trailing FY2025,13.7,x,price / FY2025 EPS 4.64,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom
+DWS,DPS 2026E (65% payout),3.39,EUR,0.65 x EPS 2026E,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,Dividend yield 2026E,5.3,%,DPS 2026E / price,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,Dividend yield trailing (FY2025 DPS 3.00),4.7,%,,https://download.dws.com/download/asset/ab87af5d-26f7-4c33-8568-024bc2826b50?tenant=DWScom
+DWS,"Peer median forward P/E (Amundi, Ninety One, Jupiter, Aberdeen)",11.1,x,median of price / current-FY consensus EPS,data/peers.csv (Yahoo consensus)
+DWS,Implied price at peer median P/E,58.01,EUR,peer median x EPS 2026E,data/peers.csv
+DWS,"Global reference median forward P/E (TROW, BEN, BLK)",10.9,x,,data/peers.csv
+DWS,"Bear target (EPS x1.000, 11x)",57.42,EUR,EPS 2026E x (1+g) x P/E,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,Bear total return incl. 1y dividend,-4.4,%,(target + DPS 2026E) / price - 1,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,"Base target (EPS x1.125, 13x)",76.34,EUR,EPS 2026E x (1+g) x P/E,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,Base total return incl. 1y dividend,25.4,%,(target + DPS 2026E) / price - 1,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,"Bull target (EPS x1.150, 14x)",84.04,EUR,EPS 2026E x (1+g) x P/E,https://finance.yahoo.com/quote/DWS.DE/analysis/
+DWS,Bull total return incl. 1y dividend,37.5,%,(target + DPS 2026E) / price - 1,https://finance.yahoo.com/quote/DWS.DE/analysis/
+Ashmore,Share price,225.6,GBp (22 Oct 2026 close),,https://finance.yahoo.com/quote/ASHM.L/
+Ashmore,"Market cap (ex-EBT shares, 650.8m)",1.468,GBP bn,price x shares in issue less EBT holding,https://finance.yahoo.com/quote/ASHM.L/
+Ashmore,"Market cap (all issued shares, 712.7m)",1.608,GBP bn,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Headline P/E (FY2026 diluted EPS 15.0p),15.0,x,price / diluted EPS,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Core P/E (FY2026 adjusted diluted EPS 5.0p),45.1,x,price / adjusted diluted EPS,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Core P/E ex excess capital,30.5,x,(price - 73p) / 5.0p,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Forward P/E (FY2027E consensus 7.04p),32.0,x,,https://finance.yahoo.com/quote/ASHM.L/analysis/
+Ashmore,Dividend yield (16.9p),7.5,%,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,DPS / core EPS,3.38,x,16.9 / 5.0,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Dividend cover on core EPS,0.3,x,5.0 / 16.9,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Dividend cover on statutory EPS,0.89,x,15.0 / 16.9 (company: 0.9),https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Seed gains as % of PBT,65.0,%,82.5 / 126.9,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Excess capital per share on ex-EBT shares,80.1,p,GBP 521.5m / 650.8m (company's 73p uses 712.7m issued),https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Excess capital per share on diluted shares,75.9,p,GBP 521.5m / 686.8m,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Bear for us (good for the short): 5.0p x 15 + 73p,148.0,GBp,core EPS x P/E + excess capital per share,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Bear for us (good for the short): move vs price,-34.4,%,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Base: 7.1p x 15 + 73p,179.5,GBp,core EPS x P/E + excess capital per share,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Base: move vs price,-20.4,%,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Against us: 10.0p x 20 + 73p,273.0,GBp,core EPS x P/E + excess capital per share,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Against us: move vs price,21.0,%,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,P/E on 5.0p needed to justify price (after 73p),30.5,x,(price - 73) / 5.0,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Ashmore,Core EPS needed at 15x to justify price,10.2,p,(price - 73) / 15,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562
+Peers,Ashmore peer median trailing P/E,11.7,x,,data/peers.csv
+Peers,Ashmore peer median forward P/E,9.4,x,,data/peers.csv
+Peers,Ashmore peer median dividend yield,6.5,%,,data/peers.csv
+Peers,DWS peer median dividend yield,5.7,%,,data/peers.csv
+Peers,DWS Group (DWS.DE) fwd P/E [FY Dec-2026],12.2,x,"trailing 12.5x, yield 4.64%",https://finance.yahoo.com/quote/DWS.DE/
+Peers,Ashmore Group (ASHM.L) fwd P/E [FY Jun-2027],32.1,x,"trailing 15.0x, yield 7.43%",https://finance.yahoo.com/quote/ASHM.L/
+Peers,Amundi (AMUN.PA) fwd P/E [FY Dec-2026],11.3,x,"trailing 13.3x, yield 4.84%",https://finance.yahoo.com/quote/AMUN.PA/
+Peers,Ninety One (N91.L) fwd P/E [FY Mar-2027],10.9,x,"trailing 11.7x, yield 6.69%",https://finance.yahoo.com/quote/N91.L/
+Peers,Jupiter (JUP.L) fwd P/E [FY Dec-2026],9.4,x,"trailing 9.5x, yield 3.49%",https://finance.yahoo.com/quote/JUP.L/
+Peers,Aberdeen (ABDN.L) fwd P/E [FY Dec-2026],13.9,x,"trailing 10.4x, yield 6.48%",https://finance.yahoo.com/quote/ABDN.L/
+Peers,Liontrust (LIO.L) fwd P/E [FY Mar-2027],7.7,x,"trailing 18.7x, yield 6.67%",https://finance.yahoo.com/quote/LIO.L/
+Peers,Polar Capital (POLR.L) fwd P/E [FY Mar-2027],7.6,x,"trailing 12.5x, yield 6.15%",https://finance.yahoo.com/quote/POLR.L/
+Peers,T. Rowe Price (TROW) fwd P/E [FY Dec-2026],10.2,x,"trailing 10.4x, yield 5.03%",https://finance.yahoo.com/quote/TROW/
+Peers,Franklin Resources (BEN) fwd P/E [FY Sep-2027],10.9,x,"trailing 21.4x, yield 4.17%",https://finance.yahoo.com/quote/BEN/
+Peers,BlackRock (BLK) fwd P/E [FY Dec-2026],19.7,x,"trailing 25.9x, yield 1.99%",https://finance.yahoo.com/quote/BLK/

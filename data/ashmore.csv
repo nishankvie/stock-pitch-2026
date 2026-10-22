@@ -1,0 +1,146 @@
+metric,value,unit,period,source_url,accessed,notes
+aum,94.4,USD bn,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+aum,64.0,USD bn,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,
+aum,55.9,USD bn,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+aum,49.3,USD bn,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+aum,47.6,USD bn,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+aum,54.0,USD bn,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+net_flows,1.2,USD bn,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+net_flows,-13.5,USD bn,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,
+net_flows,-11.5,USD bn,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+net_flows,-8.5,USD bn,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+net_flows,-5.8,USD bn,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+net_flows,2.7,USD bn,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+adj_net_revenue,296.6,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Adjusted: ex FX translation and seed-capital items
+adj_net_revenue,257.2,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Adjusted: ex FX translation and seed-capital items
+adj_net_revenue,195.4,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Adjusted: ex FX translation and seed-capital items
+adj_net_revenue,187.8,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Adjusted: ex FX translation and seed-capital items
+adj_net_revenue,146.5,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Adjusted: ex FX translation and seed-capital items
+adj_net_revenue,135.6,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Adjusted: ex FX translation and seed-capital items
+net_mgmt_fee_margin,41,bps,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,FY24 inflated by one-off Colombia fees
+net_mgmt_fee_margin,39,bps,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,FY24 inflated by one-off Colombia fees
+net_mgmt_fee_margin,38,bps,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,FY24 inflated by one-off Colombia fees
+net_mgmt_fee_margin,39,bps,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,FY24 inflated by one-off Colombia fees
+net_mgmt_fee_margin,35,bps,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,FY24 inflated by one-off Colombia fees
+net_mgmt_fee_margin,34,bps,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,FY24 inflated by one-off Colombia fees
+performance_fees,11.9,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+performance_fees,4.5,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,
+performance_fees,5.1,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+performance_fees,22.7,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+performance_fees,10.2,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+performance_fees,1.4,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+adj_ebitda,195.7,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+adj_ebitda,164.3,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+adj_ebitda,106.2,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+adj_ebitda,77.9,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+adj_ebitda,52.5,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+adj_ebitda,35.7,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+adj_ebitda_margin,66,%,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,FY26 ex VC on realised seed gains: 40%
+adj_ebitda_margin,64,%,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,FY26 ex VC on realised seed gains: 40%
+adj_ebitda_margin,54,%,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,FY26 ex VC on realised seed gains: 40%
+adj_ebitda_margin,41,%,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,FY26 ex VC on realised seed gains: 40%
+adj_ebitda_margin,36,%,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,FY26 ex VC on realised seed gains: 40%
+adj_ebitda_margin,26,%,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,FY26 ex VC on realised seed gains: 40%
+seed_capital_gains,92.5,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+seed_capital_gains,-49.9,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+seed_capital_gains,-8.3,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+seed_capital_gains,21.7,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+seed_capital_gains,40.1,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+seed_capital_gains,82.5,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,"Total seed capital profit/(loss), from each year's seed capital table"
+pbt,282.5,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Statutory
+pbt,118.4,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,Statutory
+pbt,111.8,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Statutory
+pbt,128.1,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Statutory
+pbt,108.6,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Statutory
+pbt,126.9,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Statutory
+eps_diluted,34.2,p,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Statutory diluted
+eps_diluted,12.6,p,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,Statutory diluted
+eps_diluted,12.2,p,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Statutory diluted
+eps_diluted,13.6,p,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Statutory diluted
+eps_diluted,11.8,p,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Statutory diluted
+eps_diluted,15.0,p,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Statutory diluted
+eps_adj_diluted,23.3,p,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+eps_adj_diluted,18.7,p,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+eps_adj_diluted,12.7,p,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+eps_adj_diluted,10.5,p,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+eps_adj_diluted,7.1,p,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+eps_adj_diluted,5.0,p,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,"Ex FX translation, seed-capital items and related tax"
+dps_total,16.9,p,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Interim 4.8 + final 12.1 every year
+dps_total,16.9,p,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,Interim 4.8 + final 12.1 every year
+dps_total,16.9,p,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Interim 4.8 + final 12.1 every year
+dps_total,16.9,p,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Interim 4.8 + final 12.1 every year
+dps_total,16.9,p,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Interim 4.8 + final 12.1 every year
+dps_total,16.9,p,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Interim 4.8 + final 12.1 every year
+personnel_expenses,80.3,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+personnel_expenses,73.4,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+personnel_expenses,66.2,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+personnel_expenses,85.1,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+personnel_expenses,71.0,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+personnel_expenses,77.9,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,"Statutory; FY26 adjusted 77.6, FY25 adjusted 71.8"
+vc_pct_ebvct,NOT FOUND,%,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+vc_pct_ebvct,21.5,%,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+vc_pct_ebvct,25.0,%,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+vc_pct_ebvct,31.0,%,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+vc_pct_ebvct,35.0,%,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+vc_pct_ebvct,30.0,%,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,FY22/FY23 stated as % of EBVCIT; FY21 rate NOT FOUND (charge GBP 53.6m)
+net_interest_income,0.6,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+net_interest_income,1.6,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,
+net_interest_income,15.9,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+net_interest_income,24.9,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+net_interest_income,20.1,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+net_interest_income,11.4,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+total_capital_resources,765.1,GBP m,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,
+total_capital_resources,788.7,GBP m,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,
+total_capital_resources,704.8,GBP m,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,
+total_capital_resources,696.2,GBP m,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,
+total_capital_resources,604.2,GBP m,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,
+total_capital_resources,609.5,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,
+total_capital_resources_ps,107,p,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+total_capital_resources_ps,111,p,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+total_capital_resources_ps,99,p,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+total_capital_resources_ps,98,p,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+total_capital_resources_ps,85,p,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+total_capital_resources_ps,86,p,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Company per-share figure (uses 712.7m issued shares)
+dividend_cover_stated,2.0x stated,x,FY2021,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/6718124,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+dividend_cover_stated,not stated,x,FY2022,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7165767,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+dividend_cover_stated,not stated,x,FY2023,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/7737647,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+dividend_cover_stated,not stated,x,FY2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/8400462,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+dividend_cover_stated,0.7 stated in FY26 RNS,x,FY2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9090119,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+dividend_cover_stated,0.9 stated,x,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Company defines cover on statutory diluted EPS; computed values in calc/
+excess_capital,521.5,GBP m,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Over Board-required capital of GBP 88.0m
+excess_capital_ps,73,p,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,521.5 / 712.7m issued = 73.2p. On 650.8m ex-EBT shares = 80.1p; on 686.8m diluted = 75.9p
+debt,0,GBP m,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,'continues to have no debt'
+seed_capital_market_value,323.5,GBP m,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,After GBP 172.9m realisations; unrealised life-to-date gains 69.8m
+seed_gains_in_ebvct,61.8,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Realised life-to-date seed gains included in VC pool; adds GBP 18.5m VC
+vc_charge,45.6,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,FY25 39.5
+shares_in_issue,712.740804,million,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Unchanged vs 30 Jun 2025
+shares_ebt,61.933539,million,30 Jun 2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,8.7% of issued
+shares_ex_ebt,650.807265,million,Oct 2026,https://finance.yahoo.com/quote/ASHM.L/,2026-10-22,Yahoo sharesOutstanding; = 712.74 - 61.93 = 650.81 (matches)
+shares_diluted_wavg,686.776259,million,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Denominator of diluted EPS
+profit_attrib,103.3,GBP m,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Profit after tax attributable to equity holders
+effective_tax_rate,15.4,%,FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,FY25 21.6%
+aum,52.5,USD bn,H1 FY2026 (31 Dec 2025),https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/half-year-financial-report/9426793,2026-10-22,
+eps_adj_diluted,3.1,p,H1 FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/half-year-financial-report/9426793,2026-10-22,H1 FY25 4.8p; diluted 10.1p
+aum,54.5,USD bn,Q1 FY2027 (30 Sep 2026),https://ir.ashmoregroup.com/sites/ir/files/2026-10/Ashmore_Q1_2027_AuM_FINAL.pdf,2026-10-22,RNS 14 Oct 2026; estimated
+net_flows,1.1,USD bn,Q1 FY2027,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/trading-statement/9821309,2026-10-22,Split equally fixed income / equities
+investment_performance,-0.6,USD bn,Q1 FY2027,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/trading-statement/9821309,2026-10-22,
+price_close,225.6,GBp,2026-10-22,https://finance.yahoo.com/quote/ASHM.L/,2026-10-22,yfinance; 16 Oct close was 225.2 per brief (not re-checked)
+high_52w,276.54,GBp,52w to 2026-10-22 (set 2026-02-12),https://finance.yahoo.com/quote/ASHM.L/,2026-10-22,Intraday
+low_52w,151.0,GBp,52w to 2026-10-22 (set 2025-11-25),https://finance.yahoo.com/quote/ASHM.L/,2026-10-22,Intraday
+ex_dividend_date,2026-11-05,date,FY2026 final 12.1p,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/final-results/9757562,2026-10-22,Record 6 Nov; paid 7 Dec 2026
+agm_date,2026-11-05,date,,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/notice-of-agm/9792119,2026-10-22,Same day as ex-div; new remuneration Policy up for vote
+h1_results_date_prior,2026-02-12,date,H1 FY2026,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/half-year-financial-report/9426793,2026-10-22,"Prior years: 7 Feb 2025, 7 Feb 2024, 8 Feb 2023 -> H1 FY27 expected early/mid Feb 2027 (not announced)"
+cons_eps_adj,7.04,p,FY2027E (Jun-27),https://finance.yahoo.com/quote/ASHM.L/analysis/,2026-10-22,"yfinance: avg 7.036p, range 6.4-7.8, 6 analysts; FY2028E 8.03p"
+cons_target_price,207.9,GBp,2026-10-22,https://finance.yahoo.com/quote/ASHM.L/analysis/,2026-10-22,Mean; median 183; range 123-350
+cons_ratings,0 SB / 3 B / 2 H / 3 S / 2 SS,count,2026-10,https://finance.yahoo.com/quote/ASHM.L/analysis/,2026-10-22,10 analysts; 5 sell-side negatives vs 3 buys
+analyst_deutsche_bank,Sell 160,GBp,2026-10-15,https://www.ad-hoc-news.de/boerse/news/nebenwerte/deutsche-bank-lifts-target-for-ashmore-stock-to-gbp-160-00/70376441,2026-10-22,"Was 155p on 2 Oct 2026, 150p early Sep. DB: capital-adjusted P/E ~23x vs ~10x peers"
+analyst_panmure_liberum,Buy 350,GBp,2026-10,https://www.proactiveinvestors.com/companies/news/1100165/ashmore-stays-deutsche-bank-sell-as-panmure-liberum-backs-buy-1100165.html,2026-10-22,High end of range
+analyst_jefferies,Buy 285,GBp,2026-09-09,https://www.ad-hoc-news.de/boerse/news/corporate-news/ashmore-stock-holds-after-deutsche-bank-raises-target/70074322,2026-10-22,Via TipRanks report
+coombs_shares_beneficial,209.870585,million,30 Jun 2026,https://ir.ashmoregroup.com/sites/ir/files/2026-09/Ashmore-FY2026-ARA-3.pdf,2026-10-22,= 29.4% of issued (32.2% of ex-EBT shares). Total interest incl. unvested 211.3m (29.7%). +2.53m restricted award 23 Sep 2026
+employee_ownership,~38,% of equity,FY2025,https://ir.ashmoregroup.com/sites/ir/files/2025-09/Ashmore-FY2025-ARA-website.pdf,2026-10-22,Incl. ~9% EBT
+ceo_salary,150,GBP k,FY2026,https://ir.ashmoregroup.com/sites/ir/files/2026-09/Ashmore-FY2026-ARA-3.pdf,2026-10-22,New policy at 2026 AGM raises salary cap to GBP 250k and loosens bonus deferral
+ceo_annual_bonus,5250,GBP k,FY2026,https://ir.ashmoregroup.com/sites/ir/files/2026-09/Ashmore-FY2026-ARA-3.pdf,2026-10-22,"= 3,500% of salary; exec variable pay pool 45% of GBP 20m cap"
+agm2025_remuneration_report_for,97.16,% of votes cast,AGM 6 Nov 2025,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/result-of-agm/9217560,2026-10-22,But 50.4m votes withheld (vs 15.6m against). Coombs re-election 96.60%; Incentive Plan 2025 91.37% with 50.3m withheld
+agm2024_remuneration_report_for,95.64,% of votes cast,AGM 6 Nov 2024,https://www.investegate.co.uk/announcement/rns/ashmore-group--ashm/result-of-agm/8534034,2026-10-22,
+hist_creeping_control_waiver,ISS & Pirc against; 30.25% against prior year,text,c.2018 (historical),https://portfolio-adviser.com/ashmore-boss-faces-shareholder-revolt-at-agm/,2026-10-22,Rule 9 waiver letting Coombs exceed 40% via buybacks. Article date not confirmed (page 403)
+hist_pirc_pay_1016pct_salary,NOT FOUND,,2018,,2026-10-22,"Searched portfolio-adviser, KPMG AGM review, general web; could not verify 1,016%"
